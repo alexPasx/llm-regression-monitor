@@ -1,0 +1,38 @@
+{
+    "baseline_metrics": {
+        "accuracy": 0.9777777777777777,
+        "macro_f1": 0.9775767853778028,
+        "recall_per_category": {
+            "billing": 1.0,
+            "account": 0.9333333333333333,
+            "general": 1.0
+        }
+    },
+    "candidate_metrics": {
+        "accuracy": 0.9777777777777777,
+        "macro_f1": 0.9777530589543938,
+        "recall_per_category": {
+            "billing": 0.9333333333333333,
+            "account": 1.0,
+            "general": 1.0
+        }
+    },
+    "accuracy_drop": 0.0,
+    "macro_f1_drop": -0.00017627357659100173,
+    "recall_drops": {
+        "billing": 0.06666666666666665,
+        "account": -0.06666666666666665,
+        "general": 0.0
+    },
+    "new_error_ids": [
+        3,
+        26
+    ],
+    "checks": {
+        "accuracy": true,
+        "macro_f1": true,
+        "recall": false,
+        "new_errors": false
+    },
+    "status": "FAIL"
+}

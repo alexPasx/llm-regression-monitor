@@ -1,0 +1,91 @@
+id,expected,predicted,correct,summary
+1,billing,billing,True,User wants to know where to report problems with online payment.
+2,billing,billing,True,User wants to request compensation for money.
+3,billing,general,False,The user wants to receive compensation.
+4,billing,billing,True,User wants to find invoices from John Smith
+5,billing,billing,True,User wants to know how to view rebate status.
+6,billing,billing,True,User requests a refund.
+7,billing,billing,True,User requests assistance obtaining rebates of money.
+8,billing,billing,True,User wants to check a bill from John Smith.
+9,billing,billing,True,User wants to quickly view their bills from John Smith.
+10,billing,billing,True,User wants help with a problem related to online payments.
+11,billing,billing,True,User wants help requesting a rebate of money.
+12,billing,billing,True,User is waiting for a compensation of 50 dollars.
+13,billing,billing,True,User wants to view invoices from John Smith.
+14,billing,billing,True,User requests assistance reviewing invoice #12588.
+15,billing,billing,True,User wants to know if there are any updates on their rebate.
+16,billing,billing,True,User wants to know how to report payment errors.
+17,billing,billing,True,User wants to get reimbursements.
+18,billing,billing,True,User wants to know how to report payment errors.
+19,billing,billing,True,User is waiting for a €50 rebate.
+20,billing,billing,True,User wants help reporting errors with online payment.
+21,billing,billing,True,User reports issues with online payment.
+22,billing,billing,True,User expects a reimbursement of €50.
+23,billing,billing,True,User reports problems with a payment.
+24,billing,billing,True,User inquiring whether a $50 rebate has been processed.
+25,billing,billing,True,User is asking whether a €50 refund has been processed.
+26,billing,general,False,User cannot see the status of their compensation
+27,billing,billing,True,User wants to quickly view bill #00108.
+28,billing,billing,True,User reports errors with payment.
+29,billing,billing,True,User wants help demanding a rebate of money.
+30,billing,billing,True,User reports trouble with payment.
+31,account,account,True,User wants information about how to cancel a personal account.
+32,account,account,True,User has a question about password recovery.
+33,account,account,True,User requests information about terminating their pro account.
+34,account,account,True,User reports an issue with registrations.
+35,account,account,True,User requests information about terminating a standard account.
+36,account,account,True,User is having trouble creating a gold account.
+37,account,account,True,User wants to cancel a personal account.
+38,account,account,True,User wants to reset their password.
+39,account,account,True,User wants to create a new personal account for their wife.
+40,account,account,True,User wants to cancel their freemium account.
+41,account,account,True,User wants to create a personal account for their daughter.
+42,account,account,True,User is unsure how to report a signup problem.
+43,account,account,True,User is seeking help with sign-up issues.
+44,account,account,True,User wants to report errors encountered during signup.
+45,account,account,True,User wants to cancel their standard account but doesn't know how.
+46,account,account,True,User wants to create a new premium account for their daughter.
+47,account,account,True,User reports a problem with signing up.
+48,account,account,True,User wants to open a personal account.
+49,account,account,True,User wants to reset a stolen PIN code.
+50,account,account,True,User wants to remove their premium account.
+51,account,account,True,User wants to know how to delete their standard account.
+52,account,account,True,User asks if error notifications are available during signup.
+53,account,account,True,User wants information on how to remove a standard account.
+54,account,account,True,User wants to know about removing a premium account.
+55,account,account,True,User wants to close a pro account.
+56,account,account,True,User wants to know how to open a standard account.
+57,account,account,True,User requests help notifying about registration problems.
+58,account,account,True,User cannot create a freemium account for their dad.
+59,account,account,True,User wants information about password retrieval.
+60,account,account,True,User requests help recovering their profile PIN code.
+61,general,general,True,User requests more information about delivery methods.
+62,general,general,True,User wants to speak with a live agent.
+63,general,general,True,User wants to talk to a live agent.
+64,general,general,True,User wants help to get in touch with customer service.
+65,general,general,True,User wants to know the estimated delivery time for their item.
+66,general,general,True,User wants to know how to talk to an operator.
+67,general,general,True,User requests to chat with a human agent.
+68,general,general,True,User wants to know the hours for calling customer support.
+69,general,general,True,User wants to know how to contact customer assistance.
+70,general,general,True,User wants to know available shipping options.
+71,general,general,True,User wants to speak to a live agent.
+72,general,general,True,User wants to know the estimated delivery time for their article.
+73,general,general,True,User wants assistance to call customer support.
+74,general,general,True,User wants to know how to call customer support.
+75,general,general,True,User wants to know the expected delivery time for their parcel.
+76,general,general,True,User wants to know how to check shipping options.
+77,general,general,True,User wants to speak to an assistant.
+78,general,general,True,User wants to see available shipment options.
+79,general,general,True,User wants to know how soon they can expect their parcel to arrive.
+80,general,general,True,User wants to know about shipping to Germany.
+81,general,general,True,User wants to know what delivery methods are available.
+82,general,general,True,User wants to know the expected delivery time for their purchase.
+83,general,general,True,User wants to see available shipment methods.
+84,general,general,True,User wants to know the expected delivery time for their parcel.
+85,general,general,True,User wants to know how soon they can expect their product to arrive.
+86,general,general,True,User wants to check the arrival time of their product.
+87,general,general,True,User is asking if anyone is available in customer support.
+88,general,general,True,The user asks if delivery is available to Germany.
+89,general,general,True,User wants to contact an assistant.
+90,general,general,True,User wants to see available shipping options.
