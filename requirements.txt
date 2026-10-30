@@ -1,0 +1,6 @@
+groq
+pydantic
+PyYAML
+pandas
+scikit-learn
+tqdm
